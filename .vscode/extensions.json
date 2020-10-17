@@ -1,0 +1,14 @@
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint",
+    "EditorConfig.EditorConfig",
+    "eg2.vscode-npm-script",
+    "esbenp.prettier-vscode",
+    "formulahendry.auto-complete-tag",
+    "mrmlnc.vscode-scss",
+    "octref.vetur",
+    "sdras.vue-vscode-snippets",
+    "natqe.reload",
+    "maantje.vue-discovery"
+  ],
+}
