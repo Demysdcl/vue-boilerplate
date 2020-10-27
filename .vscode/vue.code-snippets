@@ -1,13 +1,13 @@
 {
   "snowman-import": {
     "scope": "javascript, typescript",
-    "prefix": "nml-import",
+    "prefix": "sml-import",
     "body": "import ${1:component} from '@/${2:folder}/${1:component}'",
     "description": "Basic template to vue file"
   },
   "vue-template": {
     "scope": "vue",
-    "prefix": "nml-vue-template",
+    "prefix": "sml-vue-template",
     "body": [
       "<script>",
       "export default {",
