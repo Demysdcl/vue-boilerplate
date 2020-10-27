@@ -5,7 +5,4 @@
     "source.eslint.fixAll": true,
     "source.organizeImports": true
   },
-  "[json]": {
-    "editor.formatOnSave": true,
-  }
 }
