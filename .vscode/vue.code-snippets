@@ -3,7 +3,7 @@
     "scope": "javascript, typescript",
     "prefix": "sml-import",
     "body": "import ${1:component} from '@/${2:folder}/${1:component}'",
-    "description": "Basic template to vue file"
+    "description": "import with alias"
   },
   "vue-template": {
     "scope": "vue",
